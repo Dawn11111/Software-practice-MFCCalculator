@@ -1,0 +1,5 @@
+﻿  Calcul.cpp
+D:\Program Files\Visual Studio\source\repos\MFCCalculator\Calcul.cpp(131,10): warning C4018: “<”: 有符号/无符号不匹配
+D:\Program Files\Visual Studio\source\repos\MFCCalculator\Calcul.cpp(231,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Program Files\Visual Studio\source\repos\MFCCalculator\Calcul.cpp(301,20): warning C4018: “<”: 有符号/无符号不匹配
+  MFCCalculator.vcxproj -> D:\Program Files\Visual Studio\source\repos\MFCCalculator\Debug\MFCCalculator.exe

@@ -1,0 +1,2 @@
+D:\Program Files\Visual Studio\source\repos\MFCCalculator\Debug\MFCCalculator.exe
+D:\Program Files\Visual Studio\source\repos\MFCCalculator\Debug\MFCCalculator.pdb
